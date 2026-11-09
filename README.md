@@ -2,7 +2,7 @@
 
 An AI operations team that works out of Slack, with a live office view of who is doing what. One rule runs the whole system: **nothing is sent, paid, edited or moved until I approve it.**
 
-![The Phantom Core office view](https://peterpaullaguardia.vercel.app/phantom-office.gif)
+![The Phantom Core office view](https://peterpaullaguardia.vercel.app/phantom-core-preview.webp)
 
 ## The problem
 
